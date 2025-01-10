@@ -2,6 +2,20 @@
 
 Este repositório contém soluções para um conjunto de problemas de programação, resolvidos usando a linguagem de programação da minha escolha. As soluções abordam diversos conceitos, como iteração, manipulação de sequências, cálculos de faturamento, entre outros.
 
+## Compilar e executar o código
+Para compilar e executar o código, siga os passos abaixo:
+
+1) Compile os arquivos TypeScript:
+```bash
+npx tsc
+```
+2) Execute os arquivos JavaScript gerados:
+
+Por exemplo, para executar o arquivo da Questão 1:
+```bash
+node dist/questao1.js
+```
+
 ## Questões
 
 ### 1) Cálculo de Soma
